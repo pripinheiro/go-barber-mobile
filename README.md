@@ -6,7 +6,7 @@ This is the App for IOS version to connect barbers and customers.
 ## Goal 
 
 Project created to study React Native and TypeScript.
-Using concepts of hooks, props, asyncStorage and styled-components.
+Using concepts of hooks, props, Async Storage, Context API and styled-components.
 
 ## _Preview_
 
